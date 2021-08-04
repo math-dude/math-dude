@@ -1,12 +1,10 @@
 Learning: Stuff
 
-Doing: Python,JS,C++
-
-Skill level: dont ask
+Doing: Python,JS,C++,HTML,CSS
 
 Pronouns: he/him, them/they
 
-Working on: Something so big but yet so small 
+Working on: Website
 
 Employment: student
 
