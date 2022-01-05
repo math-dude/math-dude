@@ -1,10 +1,10 @@
 Learning: Stuff
 
-Doing: Python,JS,C++,HTML,CSS
+I can do: C++, Python a little of JS
 
-Pronouns: he/him, them/they
+Pronouns: he/him
 
-Working on: Website
+Working on: something
 
 Employment: student
 
